@@ -1,0 +1,1 @@
+A react starter using Parcel. [Parcel](https://parceljs.org/) is zero config application bundler. 
